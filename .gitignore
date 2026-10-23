@@ -31,6 +31,9 @@ instance/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local project cache (OSM/API responses)
+cache/
+
 # Environments
 .env
 .venv/
