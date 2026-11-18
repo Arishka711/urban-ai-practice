@@ -1,0 +1,6 @@
+test,status,detail
+__main__.AppTests.test_01_baseline_matches_practice_2,PASS,
+__main__.AppTests.test_02_manual_two_schools_and_reset,PASS,
+__main__.AppTests.test_03_auto_search_checks_all_40_blocks,PASS,
+__main__.AppTests.test_04_comparison_uses_selected_blocks,PASS,
+__main__.AppTests.test_05_invalid_capacity_is_rejected,PASS,
